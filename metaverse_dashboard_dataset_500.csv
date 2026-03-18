@@ -1,0 +1,501 @@
+user_id,login_datetime,session_duration_min,region,avatar_type,nft_purchases,product_purchases,ad_clicks,ad_conversions,device_type,virtual_real_estate_views,vr_store_engagement_score,virtual_space,satisfaction_rating
+U100,2025-11-05 14:00,87,NA,Fantasy,3,0,5,1,AR,4,96,CyberPark,4
+U101,2025-11-22 13:13,20,South America,Fantasy,2,0,4,2,VR,2,80,TempleRunVR,4
+U102,2025-11-06 18:18,67,Europe,Sci-Fi,1,2,4,2,VR,0,83,CyberPark,1
+U103,2025-11-15 18:49,71,Africa,Cartoon,0,0,5,1,Desktop,8,72,VRBeach,4
+U104,2025-11-13 10:18,27,NA,Fantasy,0,0,0,2,VR,3,47,GalaxyHub,3
+U105,2025-11-18 11:22,83,NA,Cartoon,0,2,3,1,AR,9,94,MetaMall,2
+U106,2025-11-18 16:46,64,Europe,Cartoon,0,3,5,2,Desktop,1,90,VRBeach,4
+U107,2025-11-26 13:24,87,Asia,Realistic,1,2,5,0,AR,0,56,VRBeach,5
+U108,2025-11-23 13:23,41,NA,Realistic,0,0,5,1,Desktop,8,87,VRBeach,1
+U109,2025-11-24 10:36,34,Asia,Fantasy,0,0,3,0,Desktop,2,88,MetaMall,4
+U110,2025-11-26 09:19,79,South America,Cartoon,3,0,0,2,VR,3,49,NeonCity,5
+U111,2025-11-07 13:23,86,NA,Realistic,3,3,3,0,AR,6,35,TempleRunVR,3
+U112,2025-11-19 08:28,16,Asia,Realistic,2,1,0,0,VR,3,96,TempleRunVR,1
+U113,2025-11-04 10:38,50,Asia,Sci-Fi,3,1,1,0,Desktop,9,53,GalaxyHub,1
+U114,2025-11-20 16:18,71,Europe,Realistic,2,3,2,0,VR,0,53,NeonCity,5
+U115,2025-11-06 12:28,62,NA,Realistic,0,3,1,1,AR,8,71,VRBeach,2
+U116,2025-11-04 17:27,45,Africa,Fantasy,1,3,0,1,Desktop,8,60,VRBeach,5
+U117,2025-11-01 09:13,35,Asia,Cartoon,2,2,5,2,AR,0,30,CyberPark,4
+U118,2025-11-07 15:25,41,Europe,Cartoon,3,3,0,2,VR,0,58,MetaMall,3
+U119,2025-11-16 11:58,39,Africa,Sci-Fi,2,0,2,1,AR,2,47,TempleRunVR,1
+U120,2025-11-25 10:18,41,South America,Realistic,3,2,1,0,AR,4,66,NeonCity,3
+U121,2025-11-07 13:27,44,Europe,Fantasy,2,3,5,2,VR,0,39,NeonCity,2
+U122,2025-11-01 17:35,74,NA,Sci-Fi,2,0,3,2,Desktop,2,41,NeonCity,3
+U123,2025-11-11 14:20,85,Europe,Sci-Fi,0,1,5,1,AR,10,78,VRBeach,5
+U124,2025-11-02 17:40,78,Asia,Cartoon,0,0,2,2,Desktop,10,73,CyberPark,4
+U125,2025-11-02 15:27,60,Europe,Realistic,3,2,1,2,Desktop,7,43,CyberPark,3
+U126,2025-11-08 08:57,59,NA,Cartoon,3,3,1,0,AR,9,68,MetaMall,2
+U127,2025-11-22 14:08,61,Asia,Sci-Fi,0,1,3,0,Desktop,9,89,TempleRunVR,4
+U128,2025-11-17 08:53,64,Asia,Fantasy,0,2,2,2,AR,8,68,GalaxyHub,3
+U129,2025-11-21 09:41,68,Asia,Sci-Fi,0,0,1,2,Desktop,8,60,CyberPark,3
+U130,2025-11-16 14:02,76,Africa,Sci-Fi,1,0,2,0,AR,8,78,CyberPark,4
+U131,2025-11-03 12:37,26,South America,Sci-Fi,3,2,3,1,Desktop,4,50,VRBeach,2
+U132,2025-11-13 09:15,58,Europe,Cartoon,2,1,2,2,AR,5,33,VRBeach,2
+U133,2025-11-17 10:35,42,Europe,Fantasy,3,1,5,1,VR,7,95,CyberPark,3
+U134,2025-11-23 10:24,81,NA,Cartoon,3,1,0,1,AR,9,52,CyberPark,5
+U135,2025-11-06 16:34,46,Asia,Realistic,1,1,2,2,AR,0,90,TempleRunVR,1
+U136,2025-11-07 10:23,79,South America,Realistic,3,2,5,2,Desktop,8,69,CyberPark,3
+U137,2025-11-22 18:53,61,Europe,Sci-Fi,3,3,5,1,Desktop,4,64,MetaMall,1
+U138,2025-11-24 13:47,87,NA,Cartoon,2,1,4,0,AR,4,37,NeonCity,1
+U139,2025-11-06 11:20,17,South America,Fantasy,1,3,4,1,VR,9,87,TempleRunVR,3
+U140,2025-11-20 15:41,22,Africa,Fantasy,2,1,1,2,AR,5,74,NeonCity,1
+U141,2025-11-03 14:29,90,Africa,Cartoon,3,3,2,0,Desktop,2,99,GalaxyHub,1
+U142,2025-11-04 09:13,27,Asia,Sci-Fi,3,3,0,0,Desktop,0,88,TempleRunVR,2
+U143,2025-11-24 18:56,46,South America,Sci-Fi,2,0,0,1,Desktop,2,97,MetaMall,4
+U144,2025-11-21 08:44,35,Africa,Fantasy,2,0,1,0,VR,8,39,TempleRunVR,1
+U145,2025-11-01 12:46,89,Asia,Cartoon,1,0,2,2,VR,1,64,TempleRunVR,4
+U146,2025-11-25 12:25,24,Europe,Sci-Fi,0,3,2,0,Desktop,9,31,GalaxyHub,2
+U147,2025-11-15 18:45,15,Africa,Cartoon,0,2,4,0,Desktop,8,71,NeonCity,4
+U148,2025-11-08 11:52,50,South America,Sci-Fi,3,1,2,1,Desktop,6,90,GalaxyHub,3
+U149,2025-11-10 08:24,29,Europe,Realistic,1,3,3,0,AR,2,55,VRBeach,2
+U150,2025-11-24 17:03,24,South America,Cartoon,3,0,4,2,VR,6,54,CyberPark,5
+U151,2025-11-13 17:32,34,Asia,Sci-Fi,1,3,5,1,VR,5,70,VRBeach,4
+U152,2025-11-23 15:07,59,NA,Cartoon,3,2,0,0,Desktop,3,81,MetaMall,2
+U153,2025-11-16 14:54,28,Africa,Realistic,2,1,5,0,Desktop,10,36,TempleRunVR,4
+U154,2025-11-18 13:05,53,Europe,Realistic,2,0,3,0,VR,5,93,VRBeach,1
+U155,2025-11-26 10:12,62,South America,Fantasy,3,2,3,0,Desktop,5,61,NeonCity,2
+U156,2025-11-18 08:23,46,Africa,Sci-Fi,0,0,0,1,AR,7,44,VRBeach,3
+U157,2025-11-04 11:38,35,Europe,Sci-Fi,3,0,5,2,Desktop,5,50,GalaxyHub,2
+U158,2025-11-14 18:23,32,NA,Cartoon,0,2,1,1,Desktop,5,31,CyberPark,4
+U159,2025-11-21 13:26,40,Africa,Cartoon,2,0,4,1,VR,0,62,GalaxyHub,2
+U160,2025-11-06 11:21,53,Europe,Realistic,2,2,1,1,Desktop,8,93,TempleRunVR,5
+U161,2025-11-07 17:54,69,NA,Fantasy,2,0,3,0,AR,2,82,TempleRunVR,2
+U162,2025-11-16 11:15,90,Europe,Realistic,3,3,3,2,VR,6,86,NeonCity,4
+U163,2025-11-21 13:57,34,South America,Cartoon,3,3,1,0,Desktop,5,66,CyberPark,1
+U164,2025-11-05 12:30,55,Europe,Cartoon,3,1,4,2,Desktop,6,37,GalaxyHub,5
+U165,2025-11-02 08:19,29,Africa,Cartoon,0,1,0,1,VR,0,39,NeonCity,4
+U166,2025-11-02 12:11,15,NA,Sci-Fi,2,0,3,0,Desktop,6,51,NeonCity,4
+U167,2025-11-17 13:36,57,Asia,Sci-Fi,1,1,5,1,AR,9,36,NeonCity,1
+U168,2025-11-13 12:06,89,Asia,Sci-Fi,1,0,3,2,Desktop,9,35,NeonCity,1
+U169,2025-11-21 16:57,19,NA,Realistic,3,0,1,1,VR,3,79,VRBeach,3
+U170,2025-11-02 11:58,70,NA,Sci-Fi,2,1,1,1,Desktop,0,85,CyberPark,4
+U171,2025-11-18 14:09,86,South America,Sci-Fi,1,2,5,2,VR,9,96,VRBeach,2
+U172,2025-11-03 14:47,63,NA,Realistic,1,1,2,0,VR,10,85,MetaMall,4
+U173,2025-11-05 11:40,59,Africa,Sci-Fi,0,0,0,2,Desktop,3,61,CyberPark,1
+U174,2025-11-06 11:37,39,Africa,Cartoon,2,2,0,0,VR,8,38,TempleRunVR,3
+U175,2025-11-17 12:32,88,South America,Fantasy,2,2,4,0,Desktop,0,74,NeonCity,1
+U176,2025-11-26 15:20,58,South America,Fantasy,3,0,5,0,Desktop,4,40,VRBeach,1
+U177,2025-11-19 11:50,20,South America,Fantasy,0,0,3,1,AR,7,65,GalaxyHub,1
+U178,2025-11-03 12:12,72,NA,Realistic,1,1,3,1,Desktop,3,31,TempleRunVR,2
+U179,2025-11-13 14:29,85,South America,Cartoon,3,3,0,0,AR,8,93,NeonCity,4
+U180,2025-11-06 10:33,53,Europe,Sci-Fi,1,1,3,1,Desktop,2,31,CyberPark,3
+U181,2025-11-06 11:19,72,NA,Sci-Fi,0,2,1,2,VR,2,78,GalaxyHub,5
+U182,2025-11-21 11:59,88,Africa,Fantasy,3,2,0,0,AR,8,77,TempleRunVR,1
+U183,2025-11-23 11:05,27,Africa,Fantasy,0,3,0,0,VR,4,75,NeonCity,3
+U184,2025-11-09 13:14,63,Europe,Fantasy,0,1,2,1,VR,10,43,TempleRunVR,1
+U185,2025-11-12 16:58,74,Africa,Sci-Fi,3,3,1,2,Desktop,4,72,VRBeach,5
+U186,2025-11-08 16:46,75,Africa,Sci-Fi,3,3,5,0,VR,9,63,CyberPark,5
+U187,2025-11-01 08:08,59,NA,Sci-Fi,3,1,1,0,AR,1,68,NeonCity,3
+U188,2025-11-05 11:12,25,Africa,Cartoon,3,0,3,2,Desktop,2,65,MetaMall,1
+U189,2025-11-19 17:28,33,Africa,Fantasy,3,0,4,2,Desktop,10,99,MetaMall,2
+U190,2025-11-26 18:32,45,NA,Sci-Fi,0,2,4,1,VR,6,48,VRBeach,2
+U191,2025-11-21 09:35,16,NA,Fantasy,1,0,0,1,AR,5,70,MetaMall,1
+U192,2025-11-07 09:14,85,Asia,Fantasy,0,1,3,2,VR,0,75,CyberPark,2
+U193,2025-11-18 08:16,38,NA,Cartoon,2,2,3,1,AR,1,80,CyberPark,1
+U194,2025-11-05 13:59,88,South America,Cartoon,0,0,3,0,AR,4,30,VRBeach,3
+U195,2025-11-08 13:26,71,NA,Fantasy,0,3,1,2,VR,0,75,NeonCity,4
+U196,2025-11-13 13:06,68,South America,Sci-Fi,2,0,1,0,VR,2,56,GalaxyHub,4
+U197,2025-11-11 15:11,30,NA,Realistic,0,0,0,1,Desktop,4,63,NeonCity,3
+U198,2025-11-26 18:31,17,Africa,Sci-Fi,0,1,0,0,Desktop,4,45,GalaxyHub,1
+U199,2025-11-03 15:49,59,Asia,Cartoon,1,0,2,1,VR,7,52,TempleRunVR,2
+U200,2025-11-10 13:42,61,NA,Realistic,3,1,0,0,AR,0,46,GalaxyHub,4
+U201,2025-11-14 16:03,45,Asia,Cartoon,3,3,0,0,Desktop,7,39,VRBeach,4
+U202,2025-11-05 10:57,35,Asia,Cartoon,2,3,3,2,Desktop,10,32,TempleRunVR,3
+U203,2025-11-26 17:45,76,Africa,Sci-Fi,3,1,3,0,Desktop,4,74,CyberPark,5
+U204,2025-11-15 10:01,89,South America,Realistic,2,3,2,0,Desktop,3,59,CyberPark,4
+U205,2025-11-25 08:16,22,South America,Cartoon,2,3,5,2,VR,5,52,MetaMall,3
+U206,2025-11-21 14:39,62,South America,Cartoon,3,2,0,2,Desktop,9,36,CyberPark,2
+U207,2025-11-04 10:39,89,Africa,Sci-Fi,2,3,0,0,VR,0,74,VRBeach,3
+U208,2025-11-08 10:32,33,Asia,Realistic,0,0,3,1,VR,6,62,TempleRunVR,1
+U209,2025-11-12 18:09,38,Europe,Fantasy,0,2,3,1,AR,9,50,CyberPark,4
+U210,2025-11-06 16:01,67,Europe,Realistic,2,2,3,0,Desktop,5,91,TempleRunVR,4
+U211,2025-11-11 13:02,34,NA,Sci-Fi,2,0,1,0,VR,9,93,GalaxyHub,1
+U212,2025-11-16 11:32,71,NA,Cartoon,3,3,3,0,VR,8,64,NeonCity,5
+U213,2025-11-08 10:14,53,Africa,Fantasy,3,0,3,1,AR,4,39,GalaxyHub,4
+U214,2025-11-12 13:38,76,Africa,Fantasy,1,3,0,2,AR,1,38,MetaMall,1
+U215,2025-11-15 13:04,38,Asia,Realistic,0,3,0,1,VR,6,94,MetaMall,2
+U216,2025-11-24 11:16,69,Africa,Fantasy,0,1,0,1,AR,6,49,CyberPark,4
+U217,2025-11-18 13:44,27,Africa,Sci-Fi,3,3,1,2,Desktop,4,42,NeonCity,3
+U218,2025-11-10 08:14,25,Europe,Sci-Fi,3,0,2,0,AR,10,33,VRBeach,2
+U219,2025-11-05 16:34,77,South America,Cartoon,1,0,0,1,AR,7,32,CyberPark,3
+U220,2025-11-06 16:50,26,Africa,Fantasy,0,1,4,1,AR,6,90,NeonCity,3
+U221,2025-11-06 12:20,18,NA,Fantasy,3,1,1,2,AR,7,42,VRBeach,3
+U222,2025-11-21 08:33,29,South America,Realistic,2,0,1,1,Desktop,5,100,TempleRunVR,4
+U223,2025-11-03 12:14,45,NA,Fantasy,2,1,0,2,Desktop,4,53,NeonCity,5
+U224,2025-11-23 09:00,44,Africa,Cartoon,2,0,2,1,Desktop,1,31,CyberPark,1
+U225,2025-11-08 09:16,16,Europe,Fantasy,3,3,2,0,VR,10,50,NeonCity,3
+U226,2025-11-18 17:09,20,NA,Sci-Fi,2,2,3,1,AR,4,95,CyberPark,4
+U227,2025-11-08 13:34,63,NA,Sci-Fi,2,2,4,0,AR,1,71,MetaMall,3
+U228,2025-11-11 16:14,69,NA,Sci-Fi,1,1,4,1,Desktop,7,63,NeonCity,2
+U229,2025-11-05 08:46,20,Europe,Fantasy,1,2,5,1,AR,3,94,GalaxyHub,5
+U230,2025-11-01 18:19,79,Europe,Fantasy,3,1,4,2,VR,2,45,GalaxyHub,4
+U231,2025-11-10 09:31,80,Europe,Realistic,1,0,3,2,AR,1,98,MetaMall,3
+U232,2025-11-24 16:58,15,Africa,Sci-Fi,2,1,3,1,Desktop,7,37,NeonCity,3
+U233,2025-11-14 17:27,88,NA,Cartoon,1,2,3,1,AR,7,73,CyberPark,4
+U234,2025-11-05 13:57,71,NA,Realistic,0,3,1,1,Desktop,0,72,MetaMall,2
+U235,2025-11-15 13:11,75,Africa,Realistic,0,1,3,2,Desktop,4,73,VRBeach,3
+U236,2025-11-05 11:21,61,NA,Sci-Fi,2,0,1,2,AR,10,41,GalaxyHub,4
+U237,2025-11-25 14:49,58,Africa,Realistic,1,1,0,0,VR,10,98,VRBeach,2
+U238,2025-11-06 16:48,18,Asia,Realistic,2,0,2,0,Desktop,7,79,VRBeach,3
+U239,2025-11-01 13:48,23,Africa,Realistic,2,0,1,2,AR,4,44,VRBeach,1
+U240,2025-11-17 16:21,74,NA,Realistic,3,2,2,1,VR,6,84,MetaMall,3
+U241,2025-11-10 13:10,77,Asia,Fantasy,0,3,0,0,AR,2,84,NeonCity,4
+U242,2025-11-20 10:06,52,Africa,Fantasy,0,0,1,0,VR,2,97,GalaxyHub,1
+U243,2025-11-10 13:13,48,Africa,Cartoon,0,0,3,0,AR,6,45,VRBeach,1
+U244,2025-11-05 18:12,30,Africa,Realistic,3,3,4,0,AR,8,76,MetaMall,4
+U245,2025-11-04 11:51,73,Africa,Realistic,1,2,1,0,Desktop,7,58,TempleRunVR,2
+U246,2025-11-24 08:06,21,NA,Sci-Fi,1,1,2,0,VR,10,77,NeonCity,2
+U247,2025-11-14 16:56,82,NA,Cartoon,0,2,5,1,VR,9,37,GalaxyHub,2
+U248,2025-11-22 15:32,89,South America,Realistic,3,1,1,2,AR,2,78,GalaxyHub,4
+U249,2025-11-18 10:13,48,Asia,Fantasy,3,3,2,1,VR,5,91,TempleRunVR,4
+U250,2025-11-03 09:58,79,South America,Realistic,0,2,2,0,VR,6,68,CyberPark,2
+U251,2025-11-14 11:00,58,South America,Realistic,2,1,0,2,AR,5,48,MetaMall,3
+U252,2025-11-13 08:19,37,Europe,Cartoon,1,1,5,1,AR,2,99,CyberPark,1
+U253,2025-11-18 14:04,41,South America,Sci-Fi,3,3,5,2,VR,7,100,CyberPark,2
+U254,2025-11-14 17:24,53,NA,Sci-Fi,0,3,3,1,Desktop,6,57,NeonCity,1
+U255,2025-11-03 10:02,66,South America,Cartoon,3,3,0,2,Desktop,5,33,TempleRunVR,4
+U256,2025-11-13 17:09,46,Asia,Fantasy,0,1,4,1,AR,1,95,VRBeach,1
+U257,2025-11-11 12:29,74,Africa,Realistic,3,1,4,2,Desktop,5,33,CyberPark,4
+U258,2025-11-07 11:46,77,Europe,Cartoon,1,1,1,1,Desktop,7,77,CyberPark,3
+U259,2025-11-07 14:34,28,Africa,Sci-Fi,1,3,2,1,Desktop,2,67,MetaMall,5
+U260,2025-11-16 12:01,26,South America,Cartoon,3,0,1,2,Desktop,0,64,MetaMall,3
+U261,2025-11-21 16:03,59,NA,Cartoon,2,2,5,1,Desktop,9,67,TempleRunVR,5
+U262,2025-11-05 08:07,33,Africa,Realistic,3,2,4,0,Desktop,10,30,CyberPark,1
+U263,2025-11-11 12:46,54,NA,Sci-Fi,1,0,5,1,VR,8,82,CyberPark,2
+U264,2025-11-11 13:31,81,Africa,Sci-Fi,0,2,3,0,Desktop,10,36,CyberPark,1
+U265,2025-11-23 10:12,53,NA,Fantasy,2,1,0,1,VR,10,60,GalaxyHub,5
+U266,2025-11-14 15:58,30,Europe,Sci-Fi,1,3,4,2,AR,6,39,MetaMall,5
+U267,2025-11-26 12:28,84,Africa,Sci-Fi,2,3,5,1,AR,8,98,NeonCity,5
+U268,2025-11-11 10:22,21,Africa,Realistic,2,0,5,1,Desktop,6,41,GalaxyHub,4
+U269,2025-11-13 13:18,33,South America,Fantasy,3,1,1,2,Desktop,1,36,VRBeach,5
+U270,2025-11-10 16:46,31,NA,Fantasy,3,3,3,0,Desktop,8,34,CyberPark,2
+U271,2025-11-06 14:13,83,Asia,Fantasy,1,0,4,0,VR,9,58,CyberPark,1
+U272,2025-11-20 10:26,44,Africa,Fantasy,3,3,2,1,VR,7,94,GalaxyHub,1
+U273,2025-11-12 11:48,32,South America,Sci-Fi,2,2,4,0,AR,10,54,GalaxyHub,3
+U274,2025-11-11 10:59,90,Asia,Sci-Fi,3,3,2,1,Desktop,9,58,MetaMall,2
+U275,2025-11-22 09:58,20,South America,Fantasy,2,0,1,2,VR,10,79,MetaMall,4
+U276,2025-11-02 10:59,70,South America,Realistic,3,0,2,2,AR,9,88,TempleRunVR,5
+U277,2025-11-22 13:58,86,NA,Cartoon,0,0,2,0,AR,6,83,TempleRunVR,4
+U278,2025-11-11 18:22,90,NA,Fantasy,0,3,2,2,VR,1,63,MetaMall,3
+U279,2025-11-17 10:52,53,Asia,Cartoon,1,1,3,0,AR,10,35,MetaMall,2
+U280,2025-11-01 15:32,58,South America,Cartoon,3,2,5,1,AR,6,95,MetaMall,4
+U281,2025-11-13 13:52,68,Asia,Fantasy,3,0,0,0,Desktop,1,41,MetaMall,5
+U282,2025-11-26 15:38,59,Europe,Realistic,1,0,0,0,VR,7,100,VRBeach,3
+U283,2025-11-03 08:46,80,Africa,Sci-Fi,2,3,3,0,VR,9,39,MetaMall,5
+U284,2025-11-23 10:48,33,NA,Cartoon,0,3,0,2,AR,5,69,GalaxyHub,1
+U285,2025-11-11 18:20,55,Europe,Realistic,2,0,1,2,VR,8,49,CyberPark,4
+U286,2025-11-18 15:05,32,NA,Fantasy,0,1,3,1,AR,6,76,CyberPark,2
+U287,2025-11-23 16:57,87,Africa,Cartoon,2,2,1,1,Desktop,3,49,MetaMall,5
+U288,2025-11-22 09:20,38,NA,Realistic,1,0,2,1,Desktop,9,80,MetaMall,4
+U289,2025-11-22 11:38,86,NA,Cartoon,2,1,2,0,VR,3,90,GalaxyHub,5
+U290,2025-11-12 11:20,20,Europe,Fantasy,1,1,1,0,VR,5,78,NeonCity,1
+U291,2025-11-19 16:35,26,South America,Fantasy,3,2,4,0,AR,4,69,CyberPark,2
+U292,2025-11-19 09:43,61,Asia,Cartoon,2,0,3,2,AR,2,41,VRBeach,4
+U293,2025-11-20 11:49,51,NA,Fantasy,1,1,3,0,AR,6,91,VRBeach,1
+U294,2025-11-21 18:54,62,Africa,Cartoon,2,0,5,2,Desktop,10,46,MetaMall,2
+U295,2025-11-08 10:26,60,Europe,Fantasy,2,3,5,1,VR,0,37,NeonCity,1
+U296,2025-11-23 11:46,51,Africa,Sci-Fi,3,2,4,1,AR,0,91,NeonCity,1
+U297,2025-11-12 10:22,83,Asia,Sci-Fi,3,1,1,1,VR,1,40,MetaMall,5
+U298,2025-11-19 13:30,40,Europe,Realistic,3,2,0,0,VR,9,76,CyberPark,2
+U299,2025-11-26 10:17,78,NA,Cartoon,2,0,0,0,AR,0,53,GalaxyHub,3
+U300,2025-11-19 12:14,23,NA,Sci-Fi,1,0,3,0,Desktop,2,72,MetaMall,3
+U301,2025-11-02 09:30,80,Africa,Sci-Fi,0,0,0,1,VR,1,64,MetaMall,2
+U302,2025-11-26 08:34,16,Asia,Realistic,3,2,3,0,VR,10,60,CyberPark,1
+U303,2025-11-09 10:59,19,Africa,Fantasy,3,3,4,0,Desktop,0,44,CyberPark,1
+U304,2025-11-09 09:41,34,Africa,Fantasy,2,3,3,2,AR,8,57,GalaxyHub,5
+U305,2025-11-02 11:04,54,Asia,Sci-Fi,3,1,3,0,AR,8,57,TempleRunVR,1
+U306,2025-11-04 12:22,26,Europe,Realistic,0,2,1,0,AR,6,67,NeonCity,3
+U307,2025-11-22 10:58,37,Africa,Cartoon,0,2,3,0,VR,7,91,CyberPark,4
+U308,2025-11-11 15:45,68,Africa,Realistic,0,2,5,0,AR,3,57,GalaxyHub,3
+U309,2025-11-02 13:23,31,South America,Sci-Fi,2,1,3,2,AR,6,50,CyberPark,5
+U310,2025-11-02 15:00,34,NA,Realistic,2,0,4,2,AR,0,77,GalaxyHub,5
+U311,2025-11-11 08:13,31,Asia,Sci-Fi,0,3,0,2,AR,3,87,GalaxyHub,4
+U312,2025-11-19 16:37,36,Europe,Sci-Fi,3,3,1,0,AR,10,34,CyberPark,1
+U313,2025-11-08 14:30,28,South America,Cartoon,3,3,0,1,AR,9,69,TempleRunVR,1
+U314,2025-11-23 10:31,34,Asia,Realistic,1,3,1,2,VR,9,41,CyberPark,4
+U315,2025-11-24 08:20,67,South America,Fantasy,0,0,5,0,Desktop,8,31,NeonCity,1
+U316,2025-11-24 17:36,29,Asia,Sci-Fi,1,3,4,1,VR,9,61,GalaxyHub,4
+U317,2025-11-04 15:22,18,NA,Fantasy,2,2,1,2,VR,9,56,CyberPark,1
+U318,2025-11-07 10:59,56,Europe,Fantasy,0,2,1,2,Desktop,3,33,MetaMall,2
+U319,2025-11-04 09:17,80,Africa,Cartoon,1,3,3,2,VR,0,48,CyberPark,2
+U320,2025-11-05 15:16,79,South America,Cartoon,2,0,0,2,VR,7,88,NeonCity,2
+U321,2025-11-06 13:55,54,NA,Sci-Fi,2,3,3,2,Desktop,8,97,VRBeach,5
+U322,2025-11-13 14:28,58,South America,Realistic,1,1,2,1,VR,3,71,CyberPark,3
+U323,2025-11-11 18:23,71,Africa,Sci-Fi,1,1,5,1,Desktop,1,37,CyberPark,2
+U324,2025-11-13 10:27,67,Asia,Fantasy,3,3,0,2,AR,6,52,VRBeach,5
+U325,2025-11-08 10:10,36,Asia,Cartoon,0,1,2,2,VR,10,99,TempleRunVR,1
+U326,2025-11-13 17:27,17,Africa,Fantasy,1,1,5,2,AR,0,88,CyberPark,2
+U327,2025-11-07 17:43,75,Asia,Cartoon,1,2,3,2,AR,10,49,TempleRunVR,4
+U328,2025-11-07 08:53,71,Europe,Cartoon,2,1,5,0,VR,10,60,GalaxyHub,5
+U329,2025-11-10 13:09,38,Asia,Realistic,3,3,4,2,Desktop,10,98,VRBeach,5
+U330,2025-11-12 08:49,90,NA,Realistic,1,1,5,0,Desktop,4,37,GalaxyHub,3
+U331,2025-11-23 14:09,30,Africa,Fantasy,0,1,3,1,VR,2,65,GalaxyHub,1
+U332,2025-11-11 09:49,55,NA,Cartoon,0,0,3,2,VR,8,83,NeonCity,3
+U333,2025-11-20 08:48,30,Europe,Realistic,2,0,0,1,VR,10,68,GalaxyHub,2
+U334,2025-11-21 08:12,24,Europe,Fantasy,3,2,3,2,AR,6,43,GalaxyHub,1
+U335,2025-11-15 10:06,60,Europe,Sci-Fi,2,1,1,1,VR,3,99,TempleRunVR,2
+U336,2025-11-02 15:44,72,NA,Cartoon,1,1,0,1,AR,2,33,VRBeach,2
+U337,2025-11-19 12:38,27,NA,Sci-Fi,2,2,2,1,VR,3,51,VRBeach,2
+U338,2025-11-20 14:52,65,Asia,Sci-Fi,2,1,2,1,Desktop,5,82,GalaxyHub,4
+U339,2025-11-22 17:04,77,NA,Cartoon,3,1,3,2,Desktop,2,46,VRBeach,2
+U340,2025-11-14 17:02,51,Europe,Fantasy,1,2,1,2,AR,4,32,TempleRunVR,5
+U341,2025-11-02 12:26,55,NA,Realistic,1,2,1,2,AR,8,37,GalaxyHub,5
+U342,2025-11-04 09:19,87,Europe,Cartoon,3,1,4,2,VR,2,76,TempleRunVR,4
+U343,2025-11-15 09:44,79,Africa,Cartoon,2,2,0,0,VR,5,77,GalaxyHub,2
+U344,2025-11-18 16:51,41,Asia,Realistic,2,1,0,1,Desktop,4,90,NeonCity,1
+U345,2025-11-13 09:29,86,NA,Fantasy,0,3,0,0,VR,7,32,NeonCity,2
+U346,2025-11-08 14:56,16,South America,Realistic,0,3,1,1,AR,2,54,VRBeach,2
+U347,2025-11-18 13:26,63,Asia,Realistic,0,1,5,1,Desktop,10,95,GalaxyHub,4
+U348,2025-11-06 10:35,39,NA,Fantasy,2,0,5,1,VR,3,79,CyberPark,2
+U349,2025-11-10 18:04,18,NA,Cartoon,2,0,0,1,AR,0,94,MetaMall,5
+U350,2025-11-09 15:53,77,Europe,Realistic,0,2,5,0,AR,6,52,TempleRunVR,4
+U351,2025-11-12 14:51,31,Asia,Realistic,3,1,2,2,AR,1,49,CyberPark,2
+U352,2025-11-09 11:54,23,NA,Sci-Fi,1,3,0,1,VR,9,69,CyberPark,4
+U353,2025-11-22 15:06,17,Europe,Cartoon,3,3,0,2,VR,9,33,NeonCity,2
+U354,2025-11-03 16:27,69,Africa,Realistic,3,0,5,2,Desktop,1,78,MetaMall,1
+U355,2025-11-07 17:57,48,Africa,Cartoon,0,1,2,0,AR,1,33,CyberPark,2
+U356,2025-11-10 12:20,45,Europe,Cartoon,2,3,5,0,Desktop,1,62,VRBeach,1
+U357,2025-11-08 10:32,40,Africa,Fantasy,1,3,5,2,VR,0,98,TempleRunVR,1
+U358,2025-11-14 12:05,37,Asia,Fantasy,0,2,3,1,VR,1,88,NeonCity,4
+U359,2025-11-16 16:28,54,Asia,Realistic,0,1,0,2,AR,7,97,GalaxyHub,5
+U360,2025-11-21 13:10,30,Africa,Sci-Fi,2,1,1,2,VR,1,49,TempleRunVR,4
+U361,2025-11-12 16:02,19,South America,Cartoon,0,2,4,1,AR,2,50,TempleRunVR,5
+U362,2025-11-16 08:59,64,Asia,Realistic,2,0,0,0,VR,3,39,MetaMall,1
+U363,2025-11-10 13:30,40,NA,Realistic,3,2,4,0,AR,2,69,VRBeach,4
+U364,2025-11-09 10:15,54,Europe,Cartoon,3,0,3,1,Desktop,8,35,TempleRunVR,3
+U365,2025-11-15 18:59,33,South America,Realistic,3,3,0,2,AR,6,88,TempleRunVR,3
+U366,2025-11-09 15:30,46,Europe,Fantasy,1,1,1,1,VR,1,37,MetaMall,3
+U367,2025-11-26 18:14,27,Africa,Sci-Fi,0,0,5,2,AR,3,81,MetaMall,5
+U368,2025-11-14 15:05,50,NA,Fantasy,3,2,4,0,VR,0,59,MetaMall,5
+U369,2025-11-20 08:49,78,South America,Cartoon,3,3,3,1,AR,5,41,MetaMall,1
+U370,2025-11-01 10:49,80,Europe,Cartoon,2,3,1,2,VR,7,60,MetaMall,2
+U371,2025-11-24 18:59,39,Europe,Cartoon,3,2,3,2,Desktop,8,71,VRBeach,5
+U372,2025-11-19 08:57,80,Africa,Sci-Fi,2,3,5,0,AR,10,77,CyberPark,5
+U373,2025-11-18 18:55,17,Africa,Realistic,1,1,3,0,VR,1,95,GalaxyHub,2
+U374,2025-11-11 08:05,32,Europe,Cartoon,2,2,0,0,AR,5,64,NeonCity,4
+U375,2025-11-07 11:44,39,NA,Realistic,3,1,0,1,AR,5,88,VRBeach,5
+U376,2025-11-06 15:33,28,South America,Fantasy,1,0,4,0,AR,0,79,GalaxyHub,4
+U377,2025-11-13 17:41,37,NA,Fantasy,0,2,0,1,Desktop,7,46,MetaMall,4
+U378,2025-11-09 17:20,40,South America,Realistic,1,3,1,0,AR,1,56,CyberPark,2
+U379,2025-11-05 15:06,32,South America,Fantasy,1,0,3,1,Desktop,7,82,NeonCity,4
+U380,2025-11-26 15:12,76,Asia,Sci-Fi,1,0,2,1,Desktop,7,91,NeonCity,5
+U381,2025-11-18 14:53,19,Asia,Sci-Fi,3,0,0,1,Desktop,8,88,MetaMall,1
+U382,2025-11-17 18:29,18,South America,Sci-Fi,3,1,4,0,Desktop,9,88,VRBeach,3
+U383,2025-11-10 10:04,55,South America,Sci-Fi,2,2,2,0,AR,5,41,MetaMall,5
+U384,2025-11-13 15:45,76,Asia,Realistic,3,3,1,0,AR,3,95,GalaxyHub,1
+U385,2025-11-09 08:44,83,Asia,Sci-Fi,1,0,3,2,AR,5,67,VRBeach,4
+U386,2025-11-11 13:30,28,NA,Realistic,3,0,5,2,AR,9,90,MetaMall,4
+U387,2025-11-20 18:42,23,Asia,Fantasy,0,0,4,2,Desktop,10,83,VRBeach,5
+U388,2025-11-21 10:03,86,Asia,Cartoon,3,0,5,0,Desktop,9,63,NeonCity,5
+U389,2025-11-22 18:11,41,South America,Cartoon,2,3,1,1,Desktop,6,100,NeonCity,1
+U390,2025-11-15 08:28,65,NA,Sci-Fi,1,1,2,1,Desktop,7,57,MetaMall,1
+U391,2025-11-14 11:23,39,NA,Realistic,3,1,0,2,AR,6,98,TempleRunVR,5
+U392,2025-11-20 09:42,54,Africa,Cartoon,3,0,1,2,Desktop,10,41,NeonCity,2
+U393,2025-11-18 18:16,23,NA,Realistic,0,3,0,2,VR,8,89,MetaMall,2
+U394,2025-11-03 10:41,86,NA,Sci-Fi,1,1,0,0,AR,5,54,CyberPark,1
+U395,2025-11-04 10:16,65,Africa,Fantasy,3,3,2,1,AR,10,46,NeonCity,2
+U396,2025-11-15 14:42,62,Africa,Fantasy,1,2,5,2,Desktop,3,53,TempleRunVR,1
+U397,2025-11-10 10:04,54,NA,Cartoon,3,2,5,1,VR,4,80,GalaxyHub,4
+U398,2025-11-11 14:02,83,Europe,Sci-Fi,3,2,5,2,VR,7,98,GalaxyHub,3
+U399,2025-11-13 10:49,35,South America,Sci-Fi,0,2,2,1,Desktop,0,83,GalaxyHub,2
+U400,2025-11-06 12:06,16,Africa,Realistic,3,3,3,0,AR,4,36,GalaxyHub,2
+U401,2025-11-23 09:26,54,Asia,Realistic,1,0,1,1,VR,6,91,TempleRunVR,1
+U402,2025-11-11 13:06,59,South America,Cartoon,0,1,5,1,Desktop,3,83,VRBeach,4
+U403,2025-11-10 17:26,90,NA,Sci-Fi,1,0,4,2,Desktop,10,47,TempleRunVR,5
+U404,2025-11-05 10:50,38,NA,Cartoon,2,2,3,2,Desktop,8,85,NeonCity,3
+U405,2025-11-22 17:36,60,Europe,Fantasy,2,3,5,2,Desktop,7,51,VRBeach,3
+U406,2025-11-26 09:44,39,Europe,Fantasy,2,3,2,1,VR,9,63,TempleRunVR,4
+U407,2025-11-13 14:39,62,NA,Sci-Fi,0,0,5,1,VR,10,66,VRBeach,3
+U408,2025-11-09 11:52,47,Europe,Fantasy,2,0,4,2,Desktop,8,33,CyberPark,2
+U409,2025-11-16 15:11,18,South America,Sci-Fi,3,0,1,0,VR,4,79,GalaxyHub,2
+U410,2025-11-24 15:06,67,Europe,Cartoon,2,1,2,0,AR,9,92,NeonCity,2
+U411,2025-11-24 17:01,81,South America,Cartoon,3,3,2,2,AR,8,72,GalaxyHub,3
+U412,2025-11-13 09:15,53,Africa,Fantasy,3,2,0,0,Desktop,4,44,GalaxyHub,1
+U413,2025-11-10 14:54,20,NA,Sci-Fi,0,1,3,0,VR,9,83,CyberPark,4
+U414,2025-11-20 14:57,80,Europe,Fantasy,0,1,5,2,AR,5,44,TempleRunVR,5
+U415,2025-11-15 18:55,57,Asia,Sci-Fi,1,0,3,0,Desktop,8,38,TempleRunVR,2
+U416,2025-11-19 18:19,88,Asia,Sci-Fi,0,0,5,2,VR,4,46,MetaMall,2
+U417,2025-11-01 18:34,76,Asia,Realistic,0,3,4,2,VR,8,71,TempleRunVR,1
+U418,2025-11-04 18:43,24,Asia,Cartoon,3,0,3,1,AR,4,30,GalaxyHub,1
+U419,2025-11-18 11:27,40,NA,Fantasy,1,2,0,0,AR,6,60,VRBeach,4
+U420,2025-11-15 09:39,82,Asia,Cartoon,3,2,5,0,Desktop,3,93,TempleRunVR,5
+U421,2025-11-23 16:26,42,South America,Realistic,0,3,0,1,VR,5,70,MetaMall,5
+U422,2025-11-21 15:16,64,Europe,Sci-Fi,2,1,4,0,VR,8,49,TempleRunVR,5
+U423,2025-11-26 09:00,16,Europe,Fantasy,2,0,3,2,AR,4,42,GalaxyHub,5
+U424,2025-11-12 18:24,73,Africa,Realistic,1,3,2,0,VR,3,75,NeonCity,3
+U425,2025-11-12 18:57,20,Africa,Fantasy,2,0,4,1,AR,10,50,NeonCity,3
+U426,2025-11-18 08:49,15,Europe,Fantasy,1,3,0,2,VR,8,98,TempleRunVR,4
+U427,2025-11-05 11:40,62,Africa,Sci-Fi,3,2,5,0,AR,1,35,TempleRunVR,1
+U428,2025-11-11 17:14,55,Asia,Realistic,1,2,1,1,AR,0,85,VRBeach,4
+U429,2025-11-15 16:27,58,Asia,Realistic,2,1,4,2,VR,0,48,NeonCity,2
+U430,2025-11-24 10:50,16,Africa,Cartoon,2,2,2,1,AR,2,30,TempleRunVR,5
+U431,2025-11-13 11:25,77,Europe,Sci-Fi,1,1,3,2,Desktop,0,32,MetaMall,4
+U432,2025-11-20 15:33,76,Europe,Realistic,0,3,0,2,VR,3,99,VRBeach,2
+U433,2025-11-14 09:55,88,Africa,Realistic,3,3,2,0,Desktop,4,87,NeonCity,5
+U434,2025-11-10 10:51,51,Asia,Realistic,1,2,2,0,AR,2,63,CyberPark,4
+U435,2025-11-11 14:24,16,NA,Sci-Fi,1,1,2,1,VR,6,72,VRBeach,2
+U436,2025-11-05 10:10,38,Africa,Realistic,1,0,0,2,AR,5,48,CyberPark,1
+U437,2025-11-21 18:14,83,Asia,Cartoon,3,0,2,0,VR,0,38,TempleRunVR,2
+U438,2025-11-09 10:16,18,South America,Fantasy,1,3,3,2,Desktop,5,98,VRBeach,4
+U439,2025-11-24 12:45,42,Africa,Fantasy,3,1,3,2,AR,3,63,TempleRunVR,4
+U440,2025-11-17 15:14,21,South America,Sci-Fi,3,1,2,2,Desktop,4,80,GalaxyHub,3
+U441,2025-11-25 10:27,21,NA,Sci-Fi,3,3,5,0,AR,3,61,CyberPark,1
+U442,2025-11-20 15:32,20,Africa,Realistic,3,1,5,2,Desktop,9,60,TempleRunVR,1
+U443,2025-11-14 13:23,15,NA,Realistic,2,0,2,0,Desktop,3,73,CyberPark,5
+U444,2025-11-13 17:00,53,Africa,Fantasy,1,0,5,2,Desktop,5,96,CyberPark,3
+U445,2025-11-04 10:07,64,NA,Cartoon,3,2,0,0,VR,9,81,CyberPark,1
+U446,2025-11-22 17:54,41,Africa,Cartoon,3,0,1,2,Desktop,3,95,GalaxyHub,5
+U447,2025-11-03 14:28,53,South America,Sci-Fi,0,1,4,2,VR,10,44,CyberPark,1
+U448,2025-11-23 15:18,86,Europe,Realistic,3,1,5,0,Desktop,8,66,TempleRunVR,2
+U449,2025-11-16 16:17,70,NA,Realistic,3,0,3,1,Desktop,8,37,MetaMall,3
+U450,2025-11-01 08:41,54,Africa,Realistic,2,0,0,1,AR,5,84,CyberPark,4
+U451,2025-11-24 17:27,56,Asia,Cartoon,1,0,3,2,AR,5,91,VRBeach,2
+U452,2025-11-01 15:09,30,Africa,Sci-Fi,0,2,2,0,Desktop,5,74,NeonCity,4
+U453,2025-11-21 18:32,46,South America,Fantasy,0,1,0,2,VR,9,78,GalaxyHub,4
+U454,2025-11-10 16:51,74,Asia,Fantasy,3,1,3,1,VR,9,33,TempleRunVR,2
+U455,2025-11-08 10:02,88,South America,Cartoon,2,2,0,2,VR,7,79,MetaMall,2
+U456,2025-11-20 10:47,75,Asia,Cartoon,3,1,2,0,VR,8,66,VRBeach,1
+U457,2025-11-03 11:37,47,Europe,Fantasy,0,1,3,0,VR,7,57,NeonCity,5
+U458,2025-11-26 10:35,56,NA,Fantasy,1,0,5,2,Desktop,9,78,GalaxyHub,1
+U459,2025-11-03 13:30,26,South America,Sci-Fi,2,0,4,1,Desktop,8,52,MetaMall,2
+U460,2025-11-03 16:24,27,Asia,Fantasy,1,0,5,1,VR,8,75,NeonCity,2
+U461,2025-11-10 14:12,61,Europe,Cartoon,0,2,0,0,Desktop,1,61,CyberPark,5
+U462,2025-11-24 08:57,48,NA,Sci-Fi,3,3,0,2,VR,0,100,NeonCity,1
+U463,2025-11-05 08:16,52,Africa,Fantasy,2,1,3,1,VR,9,46,GalaxyHub,5
+U464,2025-11-18 15:14,81,Africa,Realistic,3,2,2,0,Desktop,2,89,NeonCity,5
+U465,2025-11-15 18:26,82,Africa,Fantasy,2,1,4,1,Desktop,9,44,GalaxyHub,3
+U466,2025-11-14 18:35,35,Asia,Fantasy,2,0,1,2,AR,2,45,CyberPark,1
+U467,2025-11-25 16:25,52,Africa,Fantasy,3,2,5,2,AR,10,32,TempleRunVR,5
+U468,2025-11-13 16:42,65,Africa,Cartoon,3,2,4,1,VR,2,82,CyberPark,3
+U469,2025-11-10 12:30,81,South America,Fantasy,1,3,0,1,Desktop,5,54,CyberPark,2
+U470,2025-11-09 12:08,85,Europe,Fantasy,3,2,1,2,Desktop,8,67,TempleRunVR,5
+U471,2025-11-05 15:08,25,NA,Realistic,3,1,2,2,AR,9,79,GalaxyHub,1
+U472,2025-11-10 15:07,50,NA,Cartoon,2,2,5,0,VR,10,32,TempleRunVR,4
+U473,2025-11-01 09:44,46,South America,Realistic,3,0,3,2,AR,4,67,GalaxyHub,5
+U474,2025-11-07 11:29,74,Europe,Sci-Fi,1,0,3,0,VR,5,100,CyberPark,3
+U475,2025-11-24 14:09,67,Europe,Realistic,0,2,2,2,VR,2,100,NeonCity,4
+U476,2025-11-22 13:00,57,Asia,Sci-Fi,3,1,4,0,AR,4,52,VRBeach,4
+U477,2025-11-26 11:29,52,Africa,Sci-Fi,3,2,4,2,VR,6,33,NeonCity,2
+U478,2025-11-24 08:37,36,South America,Sci-Fi,3,3,2,0,Desktop,7,96,TempleRunVR,5
+U479,2025-11-03 16:00,71,NA,Sci-Fi,2,2,2,1,Desktop,6,89,NeonCity,3
+U480,2025-11-20 16:25,28,Asia,Fantasy,1,2,4,1,AR,2,68,MetaMall,2
+U481,2025-11-23 09:29,53,Africa,Fantasy,0,3,5,2,AR,2,84,MetaMall,5
+U482,2025-11-22 15:40,21,Asia,Fantasy,3,3,4,1,VR,8,78,MetaMall,4
+U483,2025-11-25 11:40,84,Asia,Cartoon,1,0,2,1,AR,6,55,VRBeach,4
+U484,2025-11-24 13:08,72,South America,Sci-Fi,1,3,4,2,Desktop,0,42,CyberPark,1
+U485,2025-11-22 10:45,64,Asia,Cartoon,1,0,3,2,AR,2,62,GalaxyHub,3
+U486,2025-11-13 16:15,73,Africa,Fantasy,1,2,4,1,AR,1,85,CyberPark,1
+U487,2025-11-23 12:17,49,Asia,Sci-Fi,0,0,0,2,Desktop,2,36,TempleRunVR,4
+U488,2025-11-10 17:47,75,South America,Cartoon,3,0,4,1,AR,2,37,NeonCity,2
+U489,2025-11-13 15:32,79,Asia,Sci-Fi,1,0,1,0,VR,10,65,VRBeach,5
+U490,2025-11-20 16:56,65,Europe,Realistic,1,0,0,0,VR,4,96,NeonCity,1
+U491,2025-11-14 13:53,16,South America,Fantasy,2,2,3,0,VR,6,58,CyberPark,5
+U492,2025-11-09 08:18,32,NA,Fantasy,0,3,2,0,Desktop,7,79,GalaxyHub,2
+U493,2025-11-17 18:03,42,NA,Fantasy,3,0,1,1,AR,1,75,TempleRunVR,5
+U494,2025-11-12 09:08,49,South America,Cartoon,0,2,4,0,Desktop,4,37,GalaxyHub,3
+U495,2025-11-01 14:02,42,Africa,Cartoon,2,2,0,0,VR,2,98,MetaMall,2
+U496,2025-11-21 17:20,22,South America,Realistic,0,3,1,1,VR,8,79,GalaxyHub,2
+U497,2025-11-25 17:36,16,NA,Fantasy,1,1,1,0,Desktop,1,64,CyberPark,1
+U498,2025-11-04 11:48,76,NA,Realistic,3,0,4,2,VR,0,77,MetaMall,5
+U499,2025-11-06 10:30,75,Asia,Sci-Fi,2,1,0,0,Desktop,5,96,MetaMall,1
+U500,2025-11-25 13:13,88,Europe,Realistic,2,3,3,2,Desktop,2,71,MetaMall,3
+U501,2025-11-21 11:08,63,NA,Cartoon,1,2,0,2,Desktop,8,30,VRBeach,2
+U502,2025-11-01 16:49,48,Europe,Fantasy,2,2,5,1,VR,2,81,VRBeach,2
+U503,2025-11-22 09:32,40,Europe,Cartoon,2,1,4,0,Desktop,2,73,VRBeach,5
+U504,2025-11-01 12:18,36,Africa,Sci-Fi,3,0,4,0,VR,4,53,VRBeach,5
+U505,2025-11-04 08:10,35,Europe,Cartoon,3,0,3,2,VR,4,42,MetaMall,4
+U506,2025-11-03 11:57,33,Africa,Sci-Fi,3,3,4,2,AR,0,48,GalaxyHub,5
+U507,2025-11-12 18:07,30,Europe,Sci-Fi,0,0,0,2,VR,4,45,CyberPark,5
+U508,2025-11-07 16:56,56,NA,Realistic,3,1,2,1,VR,3,81,GalaxyHub,2
+U509,2025-11-12 13:28,77,Europe,Cartoon,3,1,3,2,VR,7,100,CyberPark,5
+U510,2025-11-24 15:45,27,Asia,Fantasy,1,1,0,1,VR,8,51,VRBeach,2
+U511,2025-11-01 13:09,23,Asia,Cartoon,1,1,3,2,Desktop,7,72,MetaMall,1
+U512,2025-11-01 11:15,64,Asia,Sci-Fi,1,1,3,0,Desktop,4,69,TempleRunVR,1
+U513,2025-11-11 13:22,62,South America,Sci-Fi,3,0,1,2,VR,8,30,TempleRunVR,1
+U514,2025-11-16 15:56,16,South America,Realistic,1,0,4,2,Desktop,5,94,TempleRunVR,3
+U515,2025-11-04 11:32,33,South America,Cartoon,1,3,3,0,Desktop,6,40,CyberPark,3
+U516,2025-11-06 09:01,17,Asia,Fantasy,3,1,0,1,VR,0,62,MetaMall,5
+U517,2025-11-14 17:36,67,South America,Cartoon,3,1,4,2,AR,7,32,VRBeach,2
+U518,2025-11-04 12:51,49,Africa,Cartoon,0,3,4,0,Desktop,1,69,VRBeach,3
+U519,2025-11-12 09:05,28,Europe,Sci-Fi,2,2,2,0,AR,5,77,CyberPark,2
+U520,2025-11-17 11:20,54,Africa,Sci-Fi,1,0,5,2,Desktop,10,96,VRBeach,4
+U521,2025-11-05 10:41,34,Asia,Sci-Fi,1,2,4,2,Desktop,2,72,CyberPark,2
+U522,2025-11-04 09:32,61,Europe,Fantasy,3,2,5,1,Desktop,7,84,VRBeach,5
+U523,2025-11-07 17:25,45,Europe,Realistic,1,3,3,1,VR,5,75,VRBeach,1
+U524,2025-11-03 10:38,54,South America,Cartoon,3,3,5,2,AR,7,72,VRBeach,5
+U525,2025-11-13 14:25,31,NA,Sci-Fi,3,0,3,2,VR,3,91,GalaxyHub,1
+U526,2025-11-13 15:31,77,Europe,Cartoon,0,3,0,0,VR,9,40,VRBeach,4
+U527,2025-11-01 15:37,63,Africa,Cartoon,2,3,3,1,AR,5,60,NeonCity,2
+U528,2025-11-18 16:14,63,Africa,Sci-Fi,3,2,1,0,VR,0,31,VRBeach,1
+U529,2025-11-11 10:53,38,Asia,Sci-Fi,0,3,3,1,Desktop,3,70,MetaMall,1
+U530,2025-11-22 13:48,42,Europe,Cartoon,2,3,2,0,AR,8,90,MetaMall,1
+U531,2025-11-24 09:01,27,South America,Sci-Fi,1,0,1,0,AR,9,74,TempleRunVR,4
+U532,2025-11-03 09:01,71,Africa,Cartoon,1,0,1,0,AR,7,90,NeonCity,5
+U533,2025-11-24 16:48,59,NA,Sci-Fi,2,0,0,2,VR,5,38,MetaMall,3
+U534,2025-11-24 17:47,87,Asia,Cartoon,3,2,1,0,Desktop,10,70,VRBeach,1
+U535,2025-11-22 10:00,79,South America,Sci-Fi,1,2,3,2,Desktop,3,80,CyberPark,2
+U536,2025-11-08 10:31,28,South America,Fantasy,0,0,4,1,Desktop,7,43,TempleRunVR,1
+U537,2025-11-22 08:28,56,NA,Fantasy,0,1,4,2,AR,9,54,VRBeach,3
+U538,2025-11-23 14:54,39,NA,Realistic,0,0,3,2,VR,0,89,VRBeach,4
+U539,2025-11-17 16:22,74,Asia,Cartoon,1,0,0,0,AR,7,82,TempleRunVR,3
+U540,2025-11-16 14:21,71,South America,Sci-Fi,2,1,5,2,AR,8,65,NeonCity,2
+U541,2025-11-21 14:28,84,NA,Fantasy,3,3,0,1,VR,7,55,NeonCity,3
+U542,2025-11-12 10:53,90,South America,Cartoon,3,3,4,2,VR,5,69,GalaxyHub,4
+U543,2025-11-21 18:06,80,South America,Fantasy,2,0,3,0,Desktop,3,50,VRBeach,3
+U544,2025-11-17 10:24,29,South America,Fantasy,1,2,4,2,AR,2,67,MetaMall,4
+U545,2025-11-21 14:16,75,NA,Cartoon,3,2,2,1,VR,5,79,TempleRunVR,4
+U546,2025-11-10 10:18,51,Asia,Sci-Fi,3,2,4,0,Desktop,2,69,VRBeach,2
+U547,2025-11-14 15:21,83,Africa,Realistic,1,3,2,0,AR,2,68,GalaxyHub,4
+U548,2025-11-24 08:38,44,Africa,Sci-Fi,1,0,5,2,AR,1,83,MetaMall,3
+U549,2025-11-09 12:04,37,NA,Sci-Fi,1,0,3,0,VR,2,43,VRBeach,5
+U550,2025-11-22 15:58,35,NA,Cartoon,1,0,4,2,VR,9,37,VRBeach,1
+U551,2025-11-15 12:42,78,Europe,Realistic,1,0,5,0,AR,9,90,GalaxyHub,2
+U552,2025-11-15 09:58,85,Asia,Realistic,3,0,5,0,VR,9,55,CyberPark,5
+U553,2025-11-12 11:16,52,Asia,Cartoon,1,1,2,1,AR,4,67,CyberPark,5
+U554,2025-11-11 10:51,53,Asia,Sci-Fi,3,0,0,1,AR,6,71,CyberPark,4
+U555,2025-11-07 15:45,86,Asia,Realistic,2,3,5,1,Desktop,7,32,CyberPark,4
+U556,2025-11-05 09:17,61,NA,Fantasy,2,0,4,0,VR,8,80,CyberPark,3
+U557,2025-11-04 10:05,66,Asia,Cartoon,3,0,2,2,VR,9,54,TempleRunVR,1
+U558,2025-11-13 14:44,19,Asia,Realistic,2,0,0,0,VR,6,67,CyberPark,4
+U559,2025-11-18 17:44,48,Europe,Realistic,0,1,4,2,AR,9,59,TempleRunVR,1
+U560,2025-11-13 17:51,33,NA,Sci-Fi,1,2,0,2,AR,3,87,MetaMall,4
+U561,2025-11-14 09:22,32,Europe,Sci-Fi,2,2,5,2,VR,9,87,MetaMall,3
+U562,2025-11-06 18:25,45,Europe,Sci-Fi,3,0,0,1,VR,3,70,CyberPark,1
+U563,2025-11-04 10:25,64,Asia,Sci-Fi,0,2,1,2,VR,3,38,MetaMall,3
+U564,2025-11-13 11:58,89,Africa,Realistic,0,0,3,2,Desktop,7,79,GalaxyHub,4
+U565,2025-11-24 18:29,89,NA,Realistic,2,2,1,2,VR,2,71,MetaMall,3
+U566,2025-11-19 18:55,80,Africa,Realistic,2,1,0,1,VR,9,57,TempleRunVR,3
+U567,2025-11-07 11:12,43,South America,Sci-Fi,1,2,1,2,Desktop,2,62,TempleRunVR,3
+U568,2025-11-21 13:36,23,NA,Fantasy,1,0,3,0,VR,10,56,NeonCity,5
+U569,2025-11-03 11:01,76,Asia,Sci-Fi,3,1,1,0,Desktop,7,32,NeonCity,5
+U570,2025-11-02 16:21,90,NA,Fantasy,0,1,0,1,VR,7,87,TempleRunVR,4
+U571,2025-11-20 10:45,88,NA,Fantasy,3,1,4,2,Desktop,5,34,NeonCity,5
+U572,2025-11-14 15:05,71,South America,Sci-Fi,0,3,5,2,AR,1,83,VRBeach,4
+U573,2025-11-01 11:33,88,Africa,Realistic,1,0,1,0,VR,5,40,TempleRunVR,3
+U574,2025-11-26 15:15,61,Europe,Sci-Fi,3,3,3,1,AR,4,71,MetaMall,5
+U575,2025-11-25 17:28,31,NA,Fantasy,0,2,2,0,VR,1,80,CyberPark,4
+U576,2025-11-04 14:54,29,Europe,Cartoon,1,0,4,2,Desktop,5,47,TempleRunVR,2
+U577,2025-11-19 16:41,73,Asia,Sci-Fi,1,0,4,0,Desktop,1,41,NeonCity,3
+U578,2025-11-18 18:59,65,South America,Realistic,0,2,1,1,AR,1,47,NeonCity,2
+U579,2025-11-09 09:07,76,South America,Fantasy,3,1,2,1,Desktop,4,94,GalaxyHub,4
+U580,2025-11-18 11:00,45,NA,Cartoon,0,0,4,0,Desktop,8,89,MetaMall,2
+U581,2025-11-21 15:07,25,Africa,Cartoon,0,2,3,0,VR,7,51,TempleRunVR,5
+U582,2025-11-13 09:57,28,NA,Fantasy,3,0,4,1,VR,8,47,VRBeach,5
+U583,2025-11-21 12:56,87,Asia,Realistic,2,1,4,1,VR,5,61,VRBeach,3
+U584,2025-11-26 17:27,23,NA,Realistic,3,3,5,0,VR,10,77,TempleRunVR,2
+U585,2025-11-11 10:41,29,NA,Realistic,2,0,3,2,Desktop,3,100,CyberPark,3
+U586,2025-11-08 08:30,85,South America,Fantasy,3,0,5,2,VR,2,54,CyberPark,3
+U587,2025-11-21 08:15,74,Africa,Cartoon,3,0,2,0,VR,7,52,CyberPark,3
+U588,2025-11-25 13:42,70,South America,Realistic,0,2,1,1,VR,7,90,CyberPark,2
+U589,2025-11-15 08:17,64,Africa,Realistic,2,1,5,2,VR,6,62,NeonCity,2
+U590,2025-11-02 09:21,41,South America,Sci-Fi,1,0,0,0,Desktop,10,97,NeonCity,2
+U591,2025-11-22 09:10,40,Europe,Sci-Fi,2,0,5,0,Desktop,3,99,GalaxyHub,1
+U592,2025-11-03 14:20,30,South America,Sci-Fi,2,1,0,1,AR,1,48,MetaMall,5
+U593,2025-11-25 12:23,81,NA,Realistic,1,2,4,2,AR,5,51,GalaxyHub,1
+U594,2025-11-19 11:09,38,Africa,Sci-Fi,2,3,0,1,Desktop,8,92,CyberPark,3
+U595,2025-11-13 13:49,74,Africa,Realistic,0,2,5,2,AR,1,33,MetaMall,1
+U596,2025-11-11 15:29,77,NA,Sci-Fi,2,1,4,2,AR,8,81,CyberPark,4
+U597,2025-11-24 15:59,84,Asia,Cartoon,3,2,1,1,VR,5,80,MetaMall,2
+U598,2025-11-05 18:31,60,Africa,Realistic,3,0,0,1,Desktop,1,82,CyberPark,2
+U599,2025-11-11 15:43,60,Asia,Sci-Fi,3,3,0,1,VR,8,96,CyberPark,4
